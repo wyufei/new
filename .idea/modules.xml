@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chinawljr.iml" filepath="$PROJECT_DIR$/chinawljr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chinawljr-dao/chinawljr-dao.iml" filepath="$PROJECT_DIR$/chinawljr-dao/chinawljr-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chinawljr-sevice/chinawljr-sevice.iml" filepath="$PROJECT_DIR$/chinawljr-sevice/chinawljr-sevice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chinawljr-web/chinawljr-web.iml" filepath="$PROJECT_DIR$/chinawljr-web/chinawljr-web.iml" />
+    </modules>
+  </component>
+</project>
